@@ -1,0 +1,10 @@
+.button{
+    display: block;
+    background-color: #232323;
+}
+
+button{
+    width:25%;
+    height: 60px;
+    font-size: 30px;
+}

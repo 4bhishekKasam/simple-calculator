@@ -1,0 +1,14 @@
+
+.result{
+    height: 60px;
+    background-color: #bbb;
+    width: 100%;
+    border:1px solid #232323;
+    border-radius: 5px;
+}
+
+.result p{
+    font-size: 30px;
+    margin: 5px;
+
+}
